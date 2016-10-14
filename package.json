@@ -1,0 +1,16 @@
+{
+  "name": "righty-demo",
+  "version": "1.0.0",
+  "description": "Demo app for righty",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tabish Rizvi <sayyidtabish@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "righty": "^1.0.3"
+  }
+}
